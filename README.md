@@ -5,7 +5,8 @@ Databáze Pirátských grafik pro různé účely v SVG. Těžce ve vývoji.
 U [Pirátů Pardubicko](https://pardubice.pirati.cz) cítíme opakovanou potřebu vyrábět covery, bannery, grafiky na facebook a podobně. Občas bychom ocenili i plakátky, cedulky a podobně. Na každou takovou věc musí vlítnout grafik – dobrovolník a:
 * spálí mu to nějaký čas a síly, zvláště když vytváří několik verzí,
 * může být moc kreativní a výsledek nemusí být konzistentní s grafickým manuálem a s dlouhodobou komunikací Pirátů
-* a příště bude tu samou věc dělat někdo jiný zase od začátku.
+* a příště, anebo třeba hnedka zítra v jiným okrese, bude tu samou věc dělat někdo jiný zase od začátku.
+
 Proto chceme vytvořit a postupně rozšiřovat **databázi grafických šablon pro regiony**.
 ### Proč to ještě neudělal někdo jiný?
 Na centrální úrovni šablony samozřejmě existují. Veřejně je ale jen drobný chaos [ve složce Grafika](https://drive.google.com/drive/u/0/folders/1LiYgzzi0NpGHAEaxyUDSALQf5-kM8bqc), kde není všechno – a to, co tam je, má často zdroj v ai, pdf nebo psd, což pro laika není jednoduché zpracovat. Tahle stránka samozřejmě slouží i jako *proof of concept* k přebrání někým povolanějším.
@@ -15,7 +16,7 @@ Potřebuješ mít dvě věci:
 2. a fonty Bebas Neue a Roboto Condensed. Odkaz na ně najdeš hned nahoře [u grafického manuálu Pirátů](https://pirati.cz/download)
 
 Potom by mělo stačit:
-* Otevřít soubor,
+* otevřít soubor,
 * poklikat na všechny texty, které potřebuju přepsat, a přepsat je,
 * Ctrl+Shift+E, nebo Soubor/Exportovat obrázek PNG,
 * ověřit, že pod Oblast exportu je zvoleno Strana,
