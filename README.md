@@ -1,5 +1,6 @@
 # Databáze grafických šablon pro Piráty v regionech
 * [pro Facebook a Instagram](/facebook)
+* [pro web](/web)
 * pro tisk
 
 A pro starší a pokročilé různé grafické elementy ke zkopírování [v jednom souboru](/elementy.svg).
