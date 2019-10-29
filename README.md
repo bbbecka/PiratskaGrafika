@@ -1,4 +1,6 @@
 # Databáze grafických šablon pro Piráty v regionech
+* [pro Facebook a Instagram](/facebook)
+* pro tisk
 ## Co je tohle?
 Databáze Pirátských grafik pro různé účely v SVG. Těžce ve vývoji.
 ## Proč to existuje?
