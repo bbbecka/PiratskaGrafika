@@ -1,2 +1,6 @@
+## Fotky pro příspěvek (1080×1080 px)
+[![fb-viteze](fb-viteze.png)](fb-viteze.svg)
+[![fb-medailonek](fb-medailonek.png)](fb-medailonek.svg)
 ## Fotky eventů (1920×1080 px)
 [![event-schuze](event-schuze.png)](event-schuze.svg)
+[![event-pivo-plain](event-pivo-plain.png)](event-pivo-plain.svg)
